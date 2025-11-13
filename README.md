@@ -32,9 +32,11 @@ It includes sections like:
 ## 🖼️ Screenshots
 
 Here’s a preview of my portfolio 👇  
-![Portfolio Screenshot](images/preview.png)
+![Portfolio Screenshot]
+(https://github.com/Somesh1509/My-Portfolio/blob/main/Screnshot/Screenshot%202025-11-13%20230337.png)
 
-*(To add your screenshot, save it in an `images/` folder and update the path.)*
+
+
 
 ---
 
