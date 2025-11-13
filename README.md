@@ -1,37 +1,54 @@
-# My portfolio
+# 🌐 Someshwar Tripathi - Portfolio Website
 
-Built using HTML, CSS, and JavaScript.
+Welcome to my personal portfolio website!  
+This project showcases my skills, experience, and projects as a **Web Developer** and **AI/ML Enthusiast**.
 
-## Demo
+---
 
+## 🚀 Live Demo
+🔗 [View Portfolio](https://leafy-sundae-9f8d07.netlify.app/)  
 
+---
 
-## Prerequisites
+## 🧠 About the Project
+This portfolio website is designed to present my professional journey and technical skills in an interactive and elegant way.  
+It includes sections like:
+- 🧑‍💻 **About Me** – A short introduction and my professional background.  
+- 🛠 **Skills** – Technologies and tools I specialize in.  
+- 💼 **Projects** – A showcase of selected works and live demos.  
+- 📞 **Contact** – Ways to get in touch with me.  
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 🧩 Tech Stack
 
-## Installing vCard
+- **HTML5** – Structure and content  
+- **CSS3** – Styling and layout  
+- *(Optional)* **JavaScript** – Interactivity (if used)  
+- **Responsive Design** – Optimized for all devices  
 
-To install **vCard**, follow these steps:
+---
 
-Linux and macOS:
+## 🖼️ Screenshots
+
+Here’s a preview of my portfolio 👇  
+![Portfolio Screenshot](images/preview.png)
+
+*(To add your screenshot, save it in an `images/` folder and update the path.)*
+
+---
+
+## ⚙️ Installation & Setup
+
+To run this project locally:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+# Clone the repository
+git clone https://github.com/Somesh1509/My-Portfolio.git
+# Navigate to the folder
+cd <your-repo-name>
 
-Windows:
+# Open in your browser
+# (Double-click index.html or run with Live Server in VS Code)
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
 
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
